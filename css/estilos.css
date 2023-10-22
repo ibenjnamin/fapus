@@ -1,0 +1,74 @@
+/* utulo grande 400 y el ayudemos en 600 */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+header{
+    width: 100%;
+    height: 100vh;
+    background-image: url(../imagenes/fondo\ niña.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.inicio{
+    margin-top: 240px;
+}
+
+.inicio h1{
+    color: #fff;
+    font-family: 'poppins';
+}
+
+.inicio h2{
+    color: #fff;
+    font-family: 'poppins';
+    width: 400px;
+}
+
+.mision{
+    background-image: url(../imagenes/fondo\ manos\ gris.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    width: 100%;
+    height: 110vh;
+}
+
+.hacemos{
+    background-color:rgb(204, 204, 204);
+    width: 100%;
+    height: 100vh;
+}
+
+footer{
+    background-color:rgb(163, 29, 29) ;
+    padding: 25px;
+}
+
+footer img{
+    border: #000 solid 2px;
+    width: 40px;
+    margin-top: 20px;
+}
+
+footer p{
+    color: #000;
+    margin-left: 70px;
+    margin-top: -30px;
+}
+
+.mono{
+    border: none;
+    width: 120px;
+    margin-left: 220%;
+    margin-top: -150px;
+}
+
